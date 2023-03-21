@@ -1,0 +1,7 @@
+car 		43 	5150.99 	10 	32.5 	120 true
+boat 	46 	28178 	5 true 	30
+hybridcar 		85 	30000 	2 	15 	100 false  330
+car 		55 	20000.50 	1 	25 	130 false
+car 		50 	22000 	1 	25 	130 true
+boat 	86 	8178 	15 false 40
+hybridcar 		57 	32000 	1 	20 	120 true  300
